@@ -1,6 +1,7 @@
 site_name: "Dr. Byrd's Eye"
 site_url: https://brookbyrd.github.io
 
+
 theme:
   name: material
   palette:
