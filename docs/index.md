@@ -12,6 +12,8 @@ Welcome to my medical physics educational website.
 
 ## Featured Articles
 
-- [How VMAT Optimization Actually Works]
-- [TG-51 Explained]
-- [Building an ESAPI Autoplanner]
+## Featured Articles
+
+- [How VMAT Optimization Actually Works](IMRT Planning/How VMAT Optimization Actually Works.md)
+- [TG-51 Explained](TG-51/TG-51 Explained.md)
+- [Building an ESAPI Autoplanner](ESAPI Scripting/Building an ESAPI Autoplanner.md)

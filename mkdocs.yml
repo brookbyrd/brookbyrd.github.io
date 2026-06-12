@@ -9,11 +9,3 @@ theme:
 plugins:
   - search
 
-nav:
-  - Home: index.md
-  - ESAPI Scripting:
-      - Building an ESAPI Autoplanner: ESAPI Scripting/Building an ESAPI Autoplanner.md
-  - IMRT Planning:
-      - How VMAT Optimization Actually Works: IMRT Planning/How VMAT Optimization Actually Works.md
-  - TG-51:
-      - TG-51 Explained: TG-51/TG-51 Explained.md
