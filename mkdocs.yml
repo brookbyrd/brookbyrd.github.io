@@ -3,6 +3,8 @@ site_url: https://brookbyrd.github.io
 
 theme:
   name: material
+  palette:
+    scheme: slate
 
 plugins:
   - search
