@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TG-51/TG-51 Explained.md",
+                "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "TG-51 Explained"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TG-51/TG-51 Explained.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TG-51 Explained"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TG-51/TG-51 Explained.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TG-51 Explained"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/TG-51/TG-51 Explained.md",
+                "file": "docs/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TG-51 Explained"
+              "title": "Outline of index"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "c92e4866d0826861",
   "lastOpenFiles": [
+    "docs/TG-51/TG-51 Explained.md",
     "site/ESAPI Scripting/Building an ESAPI Autoplanner/index.html",
     "site/ESAPI Scripting/Building an ESAPI Autoplanner",
     "site/ESAPI Scripting",
@@ -195,7 +196,6 @@
     "site/TG-51",
     "site/IMRT Planning/How VMAT Optimization Actually Works/index.html",
     "site/IMRT Planning/How VMAT Optimization Actually Works",
-    "site/IMRT Planning",
     "site/assets/images/favicon.png"
   ]
 }
