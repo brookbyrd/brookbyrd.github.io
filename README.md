@@ -1,2 +1,0 @@
-# brookbyrd.github.io
-
