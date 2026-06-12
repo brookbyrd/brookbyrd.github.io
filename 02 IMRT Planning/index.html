@@ -8,29 +8,31 @@
       
       
       
-        <link rel="canonical" href="https://brookbyrd.github.io/Coding%20Bootcamp/Building%20an%20ESAPI%20Autoplanner/">
+        <link rel="canonical" href="https://brookbyrd.github.io/02%20IMRT%20Planning/">
       
       
-        <link rel="prev" href="../../06%20Proton%20Therapy/Site-Specific%20Guidance/">
+        <link rel="prev" href="../01%20Therapy%20Physics%20Basics/1.1%20Therapy%20Physics%20101/">
       
+      
+        <link rel="next" href="Dose%20Calculation%20Algorithms/">
       
       
         
       
       
-      <link rel="icon" href="../../assets/images/favicon.png">
+      <link rel="icon" href="../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
     
     
       
-        <title>Building an ESAPI Autoplanner - Dr. Byrd's Eye</title>
+        <title>IMRT Planning - Dr. Byrd's Eye</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
       
       
 
@@ -49,7 +51,7 @@
       
     
     
-    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -71,6 +73,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#imrt-planning" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -83,7 +90,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Dr. Byrd&#39;s Eye" class="md-header__button md-logo" aria-label="Dr. Byrd's Eye" data-md-component="logo">
+    <a href=".." title="Dr. Byrd&#39;s Eye" class="md-header__button md-logo" aria-label="Dr. Byrd's Eye" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
@@ -103,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Building an ESAPI Autoplanner
+              IMRT Planning
             
           </span>
         </div>
@@ -181,7 +188,7 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Dr. Byrd&#39;s Eye" class="md-nav__button md-logo" aria-label="Dr. Byrd's Eye" data-md-component="logo">
+    <a href=".." title="Dr. Byrd&#39;s Eye" class="md-nav__button md-logo" aria-label="Dr. Byrd's Eye" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
@@ -199,7 +206,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../.." class="md-nav__link">
+      <a href=".." class="md-nav__link">
         
   
   
@@ -273,7 +280,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../01%20Therapy%20Physics%20Basics/1.1%20Therapy%20Physics%20101/" class="md-nav__link">
+      <a href="../01%20Therapy%20Physics%20Basics/1.1%20Therapy%20Physics%20101/" class="md-nav__link">
         
   
   
@@ -305,18 +312,20 @@
       
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -337,7 +346,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             
@@ -352,10 +361,37 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../02%20IMRT%20Planning/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    IMRT Planning
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -371,6 +407,48 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Articles
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#planned-topics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Planned Topics
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -383,7 +461,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../02%20IMRT%20Planning/Dose%20Calculation%20Algorithms/" class="md-nav__link">
+      <a href="Dose%20Calculation%20Algorithms/" class="md-nav__link">
         
   
   
@@ -411,7 +489,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../02%20IMRT%20Planning/How%20VMAT%20Optimization%20Actually%20Works/" class="md-nav__link">
+      <a href="How%20VMAT%20Optimization%20Actually%20Works/" class="md-nav__link">
         
   
   
@@ -540,7 +618,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../03%20Quality%20Assurance/TG-51/" class="md-nav__link">
+      <a href="../03%20Quality%20Assurance/TG-51/" class="md-nav__link">
         
   
   
@@ -568,7 +646,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../03%20Quality%20Assurance/TG-51/TG-51%20Explained/" class="md-nav__link">
+      <a href="../03%20Quality%20Assurance/TG-51/TG-51%20Explained/" class="md-nav__link">
         
   
   
@@ -705,7 +783,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../05%20Brachytherapy/Brachy%20QA/Daily%2C%20Monthly%2C%20and%20Annual%20QA/" class="md-nav__link">
+      <a href="../05%20Brachytherapy/Brachy%20QA/Daily%2C%20Monthly%2C%20and%20Annual%20QA/" class="md-nav__link">
         
   
   
@@ -733,7 +811,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../05%20Brachytherapy/Brachy%20QA/Planning%20Chart%20Check/" class="md-nav__link">
+      <a href="../05%20Brachytherapy/Brachy%20QA/Planning%20Chart%20Check/" class="md-nav__link">
         
   
   
@@ -761,7 +839,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../05%20Brachytherapy/Brachy%20QA/Source%20Exchange/" class="md-nav__link">
+      <a href="../05%20Brachytherapy/Brachy%20QA/Source%20Exchange/" class="md-nav__link">
         
   
   
@@ -844,7 +922,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../05%20Brachytherapy/Gyn%20Brachy/EMBRACE%20Clinical%20Trials/" class="md-nav__link">
+      <a href="../05%20Brachytherapy/Gyn%20Brachy/EMBRACE%20Clinical%20Trials/" class="md-nav__link">
         
   
   
@@ -927,7 +1005,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../05%20Brachytherapy/TG-43%20Dosimetry%20Formulism/TG-43%20Formulism/" class="md-nav__link">
+      <a href="../05%20Brachytherapy/TG-43%20Dosimetry%20Formulism/TG-43%20Formulism/" class="md-nav__link">
         
   
   
@@ -1010,7 +1088,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../05%20Brachytherapy/Vaginal%20Cylinder/PORTEC/" class="md-nav__link">
+      <a href="../05%20Brachytherapy/Vaginal%20Cylinder/PORTEC/" class="md-nav__link">
         
   
   
@@ -1100,7 +1178,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../06%20Proton%20Therapy/Proton%20Dose%20Calculation%20Algorithms/" class="md-nav__link">
+      <a href="../06%20Proton%20Therapy/Proton%20Dose%20Calculation%20Algorithms/" class="md-nav__link">
         
   
   
@@ -1128,7 +1206,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../06%20Proton%20Therapy/Proton%20Physics%20-%20101/" class="md-nav__link">
+      <a href="../06%20Proton%20Therapy/Proton%20Physics%20-%20101/" class="md-nav__link">
         
   
   
@@ -1156,7 +1234,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../06%20Proton%20Therapy/Proton-Specific%20Imaging/" class="md-nav__link">
+      <a href="../06%20Proton%20Therapy/Proton-Specific%20Imaging/" class="md-nav__link">
         
   
   
@@ -1184,7 +1262,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../06%20Proton%20Therapy/Range%20Uncertainty/" class="md-nav__link">
+      <a href="../06%20Proton%20Therapy/Range%20Uncertainty/" class="md-nav__link">
         
   
   
@@ -1212,7 +1290,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../06%20Proton%20Therapy/Site-Specific%20Guidance/" class="md-nav__link">
+      <a href="../06%20Proton%20Therapy/Site-Specific%20Guidance/" class="md-nav__link">
         
   
   
@@ -1244,20 +1322,18 @@
       
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
         
           
           <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
@@ -1278,7 +1354,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_7">
             <span class="md-nav__icon md-icon"></span>
             
@@ -1293,17 +1369,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../Coding%20Bootcamp/Building%20an%20ESAPI%20Autoplanner/" class="md-nav__link">
         
   
   
@@ -1319,7 +1388,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -1349,6 +1417,38 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Articles
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#planned-topics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Planned Topics
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -1365,9 +1465,36 @@
 
 
 
-  <h1>Building an ESAPI Autoplanner</h1>
-
-
+<h1 id="imrt-planning">IMRT Planning</h1>
+<p>This section covers IMRT and VMAT treatment planning concepts, optimization strategies, plan evaluation, and practical clinical implementation.</p>
+<h2 id="articles">Articles</h2>
+<ul>
+<li><a href="How%20VMAT%20Optimization%20Actually%20Works/">How VMAT Optimization Actually Works</a></li>
+</ul>
+<h2 id="planned-topics">Planned Topics</h2>
+<ul>
+<li>
+<p>Optimization objectives and priorities</p>
+</li>
+<li>
+<p>Ring structures and dose shaping</p>
+</li>
+<li>
+<p>VMAT arc geometry</p>
+</li>
+<li>
+<p>Plan normalization</p>
+</li>
+<li>
+<p>Plan evaluation metrics</p>
+</li>
+<li>
+<p>Knowledge-based planning</p>
+</li>
+<li>
+<p>Auto-planning strategies</p>
+</li>
+</ul>
 
 
 
@@ -1417,10 +1544,10 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
       
     
   </body>
