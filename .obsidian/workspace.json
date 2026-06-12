@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "22c1b2ed6b06872b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b919f5584b1474e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92e4866d0826861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/TG-51/TG-51 Explained.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TG-51 Explained"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9f651f114d5e8d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "662bead38f0dd96a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fdf8ac6965fb828",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7117634c1827513",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8bec75227b43894",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c3b51054001a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c416f1a65a61287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b06cfc471018ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/TG-51/TG-51 Explained.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TG-51 Explained"
+            }
+          },
+          {
+            "id": "71fa0d325712f93d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/TG-51/TG-51 Explained.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TG-51 Explained"
+            }
+          },
+          {
+            "id": "383f8aedcac090b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "600d1c7f3f38cf17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ae18fd222cc0b5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/TG-51/TG-51 Explained.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TG-51 Explained"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c92e4866d0826861",
+  "lastOpenFiles": [
+    "site/search/search_index.json",
+    "site/search",
+    "site/TG-51/TG-51 Explained/index.html",
+    "site/TG-51/TG-51 Explained",
+    "site/TG-51",
+    "site/IMRT Planning/How VMAT Optimization Actually Works/index.html",
+    "site/IMRT Planning/How VMAT Optimization Actually Works",
+    "site/IMRT Planning",
+    "site/ESAPI Scripting/Building an ESAPI Autoplanner/index.html",
+    "site/ESAPI Scripting/Building an ESAPI Autoplanner",
+    "site/ESAPI Scripting",
+    "site/assets/images/favicon.png"
+  ]
+}
