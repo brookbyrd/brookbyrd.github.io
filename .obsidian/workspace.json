@@ -185,6 +185,9 @@
   },
   "active": "c92e4866d0826861",
   "lastOpenFiles": [
+    "site/ESAPI Scripting/Building an ESAPI Autoplanner/index.html",
+    "site/ESAPI Scripting/Building an ESAPI Autoplanner",
+    "site/ESAPI Scripting",
     "site/search/search_index.json",
     "site/search",
     "site/TG-51/TG-51 Explained/index.html",
@@ -193,9 +196,6 @@
     "site/IMRT Planning/How VMAT Optimization Actually Works/index.html",
     "site/IMRT Planning/How VMAT Optimization Actually Works",
     "site/IMRT Planning",
-    "site/ESAPI Scripting/Building an ESAPI Autoplanner/index.html",
-    "site/ESAPI Scripting/Building an ESAPI Autoplanner",
-    "site/ESAPI Scripting",
     "site/assets/images/favicon.png"
   ]
 }
