@@ -19,22 +19,22 @@ Fundamental radiation physics, dose, interactions, and treatment basics.
 ### 🖥️ [[02. IMRT Planning|02. IMRT Planning]]
 IMRT, VMAT, optimization, objectives, planning tips, and plan evaluation.
 
-### ✅ [[03. Quality Assurance|03. Quality Assurance]]
+### ✅ [[docs/03. Quality Assurance/index|03. Quality Assurance]]
 Machine QA, patient-specific QA, TG reports, tolerances, and clinical checks.
 
-### ☢️ [[04. Radiation Safety|04. Radiation Safety]]
+### ☢️ [[docs/04. Radiation Safety/index|04. Radiation Safety]]
 Shielding, regulations, surveys, contamination, and safety principles.
 
 ### 📍 [[05. Brachytherapy|05. Brachytherapy]]
 HDR, LDR, applicators, source calibration, planning, and QA.
 
-### ⚛️ [[06. Proton Therapy|06. Proton Therapy]]
+### ⚛️ [[docs/06. Proton Therapy/index|06. Proton Therapy]]
 Proton interactions, range uncertainty, LET, robustness, and clinical workflows.
 
-### ⭐ [[07. Special Topics|07. Special Topics]]
+### ⭐ [[docs/07. Special Topics/index|07. Special Topics]]
 Advanced or mixed topics that do not fit cleanly into one core section.
 
-### 🫁 [[08. Imaging|08. Imaging]]
+### 🫁 [[docs/08. Imaging/index|08. Imaging]]
 CT, MRI, CBCT, IGRT, image quality, artifacts, and registration.
 
 ### 🎯 [[09. SRS-SBRT|09. SRS-SBRT]]
@@ -74,7 +74,7 @@ Radiation oncology anatomy, contours, OARs, and site-specific structures.
 
 1. [[01. Therapy Physics Basics]]
 2. [[02. IMRT Planning]]
-3. [[03. Quality Assurance]]
+3. [[docs/03. Quality Assurance/index]]
 4. [[TG-51]]
 5. [[ABR Exam Prep]]
 
