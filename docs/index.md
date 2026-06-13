@@ -13,7 +13,7 @@ A teaching repository for medical physics notes, clinical workflows, QA resource
 
 ## Browse by Category
 
-### 📘 [[01. TherapyPhysicsBasics.md]]
+### 📘 [[docs/01. Therapy Physics Basics/index.md]]
 Fundamental radiation physics, dose, interactions, and treatment basics.
 
 ### 🖥️ [[02. IMRT Planning|02. IMRT Planning]]
