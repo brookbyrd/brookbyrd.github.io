@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopStarterScript", "WorkshopStarterScript.csproj", "{A14B68E5-C71F-40B0-99A2-F0B6295D9AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14B68E5-C71F-40B0-99A2-F0B6295D9AAF}.Debug|x64.ActiveCfg = Debug|x64
+		{A14B68E5-C71F-40B0-99A2-F0B6295D9AAF}.Debug|x64.Build.0 = Debug|x64
+		{A14B68E5-C71F-40B0-99A2-F0B6295D9AAF}.Release|x64.ActiveCfg = Release|x64
+		{A14B68E5-C71F-40B0-99A2-F0B6295D9AAF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {160EB250-A4C1-40FD-9043-5EBFBC060259}
+	EndGlobalSection
+EndGlobal

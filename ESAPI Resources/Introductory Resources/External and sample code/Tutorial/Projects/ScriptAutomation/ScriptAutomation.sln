@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptAutomation", "ScriptAutomation.csproj", "{BA0974E0-25BB-4A97-B25A-D3522E49F33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0974E0-25BB-4A97-B25A-D3522E49F33D}.Debug|x64.ActiveCfg = Debug|x64
+		{BA0974E0-25BB-4A97-B25A-D3522E49F33D}.Debug|x64.Build.0 = Debug|x64
+		{BA0974E0-25BB-4A97-B25A-D3522E49F33D}.Release|x64.ActiveCfg = Release|x64
+		{BA0974E0-25BB-4A97-B25A-D3522E49F33D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358158F3-DA95-4DE2-9794-5A92D6D910B7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\steve\OneDrive\Documents\Eclipse Scripting API\Projects\WorkshopStarterScript\bin\debug\WorkshopStarterScript.dll
+C:\Users\steve\OneDrive\Documents\Eclipse Scripting API\Projects\WorkshopStarterScript\bin\debug\WorkshopStarterScript.pdb
+C:\Users\steve\OneDrive\Documents\Eclipse Scripting API\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\Eclipse Scripting API\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\Eclipse Scripting API\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.dll
+C:\Users\steve\OneDrive\Documents\Eclipse Scripting API\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.pdb
+P:\BrookByrd\Projects\ESAPI\Workshop_Starter_Script\Projects\WorkshopStarterScript\bin\debug\WorkshopStarterScript.esapi.dll
+P:\BrookByrd\Projects\ESAPI\Workshop_Starter_Script\Projects\WorkshopStarterScript\bin\debug\WorkshopStarterScript.esapi.pdb
+P:\BrookByrd\Projects\ESAPI\Workshop_Starter_Script\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.csproj.AssemblyReference.cache
+P:\BrookByrd\Projects\ESAPI\Workshop_Starter_Script\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.csproj.CoreCompileInputs.cache
+P:\BrookByrd\Projects\ESAPI\Workshop_Starter_Script\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.esapi.dll
+P:\BrookByrd\Projects\ESAPI\Workshop_Starter_Script\Projects\WorkshopStarterScript\obj\x64\Debug\WorkshopStarterScript.esapi.pdb
