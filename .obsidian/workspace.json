@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "22c1b2ed6b06872b",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c51fa762dab36a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63dc92bf4c8f6224",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9f651f114d5e8d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "662bead38f0dd96a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fdf8ac6965fb828",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7117634c1827513",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8bec75227b43894",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c3b51054001a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c416f1a65a61287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b06cfc471018ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "71fa0d325712f93d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "383f8aedcac090b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "600d1c7f3f38cf17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ae18fd222cc0b5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "63dc92bf4c8f6224",
+  "lastOpenFiles": [
+    "docs/01. Therapy Physics Basics/index.md.md",
+    "sitemap.xml.gz",
+    "sitemap.xml",
+    "search/search_index.json",
+    "search",
+    "index.html",
+    "assets/javascripts/lunr/min/lunr.zh.min.js",
+    "assets/javascripts/lunr/min/lunr.vi.min.js",
+    "assets/javascripts/lunr/min/lunr.tr.min.js",
+    "assets/javascripts/lunr/min/lunr.th.min.js",
+    "assets/javascripts/lunr/min/lunr.te.min.js",
+    "assets/images/favicon.png",
+    "Figures/banner.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2018/ESAPIX-Demo/ESAPIX WPF/Resources/esapix.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2018/DocumenServiceSample/ARIALocalServicesSample/images/header.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2014/guru track projects/RapidPlanEvaluation/Projects/Rapid Plan Evaluation/Images/selectnone.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2014/guru track projects/RapidPlanEvaluation/Projects/Rapid Plan Evaluation/Images/selectall.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2014/guru track projects/RapidPlanEvaluation/Projects/Rapid Plan Evaluation/Images/plus.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2014/guru track projects/RapidPlanEvaluation/Projects/Rapid Plan Evaluation/Images/Add.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2018/ApplicationRoleSample/AppRoleSample/images/ok.png",
+    "ESAPI Resources/Introductory Resources/External and sample code/Varian Code Samples GitHub/webinars & workshops/Developer Workshop 2018/ApplicationRoleSample/AppRoleSample/images/header.png",
+    "ABR Exam Prep/index.md",
+    "11. Anatomy/index.md",
+    "10. FMEA & TG-100/index.md",
+    "09. SRS-SBRT/index.md",
+    "08. Imaging/index.md",
+    "07. Special Topics/index.md",
+    "06. Proton Therapy/index.md",
+    "05. Brachytherapy/index.md",
+    "04. Radiation Safety/index.md",
+    "03. Quality Assurance/index.md",
+    "02. IMRT Planning/index.md",
+    "site/ABR Exam Prep/index.md",
+    "site/11. Anatomy/index.md",
+    "site/10. FMEA & TG-100/index.md",
+    "site/09. SRS-SBRT/index.md",
+    "site/08. Imaging/index.md",
+    "site/07. Special Topics/index.md",
+    "site/06. Proton Therapy/index.md",
+    "site/05. Brachytherapy/index.md",
+    "site/04. Radiation Safety/index.md",
+    "site/03. Quality Assurance/index.md",
+    "site/02. IMRT Planning/index.md",
+    "site/01. Therapy Physics Basics/index.md",
+    "docs/06. Proton Therapy/index.md.md",
+    "docs/ABR Exam Prep/index.md.md",
+    "docs/04. Radiation Safety/4.7 Pacemakers - TG-34 & 203/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,12 @@
+H:\Scripting\Scripts\Projects\PatientInfo\bin\debug\PatientInfo.dll
+H:\Scripting\Scripts\Projects\PatientInfo\bin\debug\PatientInfo.pdb
+H:\Scripting\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.csprojAssemblyReference.cache
+H:\Scripting\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.csproj.CoreCompileInputs.cache
+H:\Scripting\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.dll
+H:\Scripting\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.pdb
+C:\Users\KogerB\Desktop\Scripts\Projects\PatientInfo\bin\debug\PatientInfo.dll
+C:\Users\KogerB\Desktop\Scripts\Projects\PatientInfo\bin\debug\PatientInfo.pdb
+C:\Users\KogerB\Desktop\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.csprojAssemblyReference.cache
+C:\Users\KogerB\Desktop\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.csproj.CoreCompileInputs.cache
+C:\Users\KogerB\Desktop\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.dll
+C:\Users\KogerB\Desktop\Scripts\Projects\PatientInfo\obj\x64\Debug\PatientInfo.pdb

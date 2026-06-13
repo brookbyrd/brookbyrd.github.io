@@ -1,0 +1,2 @@
+H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Cardan.CodeCompletion\obj\Debug\Cardan.CodeCompletion.csprojAssemblyReference.cache
+H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Cardan.CodeCompletion\obj\Debug\Cardan.CodeCompletion.csproj.GenerateResource.cache
