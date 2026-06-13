@@ -25,7 +25,7 @@ Machine QA, patient-specific QA, TG reports, tolerances, and clinical checks.
 ### ☢️ [[docs/04. Radiation Safety/index|04. Radiation Safety]]
 Shielding, regulations, surveys, contamination, and safety principles.
 
-### 📍 [[05. Brachytherapy|05. Brachytherapy]]
+### 📍 [[docs/05. Brachytherapy/index|05. Brachytherapy]]
 HDR, LDR, applicators, source calibration, planning, and QA.
 
 ### ⚛️ [[docs/06. Proton Therapy/index|06. Proton Therapy]]
