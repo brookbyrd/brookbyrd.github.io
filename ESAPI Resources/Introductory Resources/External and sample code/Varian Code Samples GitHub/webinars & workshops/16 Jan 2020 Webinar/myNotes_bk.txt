@@ -1,0 +1,54 @@
+Varian Webinar, Jan 16 2020
+ESAPI Scripting: Matthew Schmidt (Wash U)
+Webinar: https://www.myvarian.com/s/mvwebsummary?lang=undefined&Id=a0O0h00000Xj2CTEAZ
+Github: https://github.com/VarianAPIs/Varian-Code-Samples/tree/master/webinars%20%26%20workshops/16%20Jan%202020%20Webinar
+
+Visual Studio Shortcuts:
+Ctr + .		Investigate and fix the red squiggle (errors, etc.)
+prop		Snippet to create a new quick property
+propfull	Snippet to create a full property (private and public members)
+ctor		Snippet to create constructor
+
+ESAPIX: Another helper program similar to runner
+ - Facades: Acts like the ESAPI scripting API, used for doing stuff offline.
+ - Unit Testing: Right click on method, say Create Unit Test.
+   Creates new project, you can create a dummy PlanSetup, etc. and call your method.
+
+Prism: NuGet package useful for handling MVVM
+ - Rather than derive from INotifyPropertyHandler, you derive from BindableBase
+ - Then, in your public set for a propety, put
+   set { SetProperty(ref privateVariableHere, value);}
+ - This handles all the background notification stuff on its own
+ - Buttons can bind to methods:
+     Command = "{Binding MethodNameHere}"
+   Then with Prism, we call this a DeleteCommand
+ - Events: PubSubEvent<somethingToPass>
+   Also eventAggregator. IEventAggregator
+ 
+ 
+To Run a Standalone app:
+ - Visual Studio: Create New WPF Application. 
+ - Project Properties: Set to x64
+ - References: Add 2 VMS things
+ - Delete MainWindow.xaml
+ - In App.xaml: Startup="Application_Startup" (Not StartupURI)
+ - This will be created autoamtically in App.xaml.cs, and everything runs from here:
+     var app = VMS.TPS.Common.Model.API.Application.CreateApplication();
+	 var patient = app.OpenPatientById("000000000");
+	 var course = ...
+	 var plan = ...
+	 var mainView = new MainView();
+	 var anotherView = new AnotherView();
+	 anotherView.DataContext = new AnotherViewModel(plan);
+	 mainView.Content = anotherView;
+	 mainView.Show();
+	 
+	 
+XAML stuff:
+ - If we want to bind to structures but display only the Id (i.e.: Structure.Id):
+     ItemsSource = "{Binding Structures}" DisplayMemberPath = "Id"
+ - Buttons can bind to methods:
+     Command = "{Binding MethodNameHere}"
+   Then with Prism, we call this a DeleteCommand
+   
+   

@@ -1,0 +1,10 @@
+C:\Users\KogerB\Desktop\Scripts\plugins\Example_DVH.esapi.dll
+C:\Users\KogerB\Desktop\Scripts\plugins\Example_DVH.esapi.pdb
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\Example_DVH.csprojAssemblyReference.cache
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\MainControl.baml
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\MainControl.g.cs
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\Example_DVH.esapi_MarkupCompile.cache
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\Example_DVH.esapi.g.resources
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\Example_DVH.csproj.CoreCompileInputs.cache
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\Example_DVH.esapi.dll
+C:\Users\KogerB\Desktop\Scripts\Projects\Example_DVH\obj\x64\Debug\Example_DVH.esapi.pdb
