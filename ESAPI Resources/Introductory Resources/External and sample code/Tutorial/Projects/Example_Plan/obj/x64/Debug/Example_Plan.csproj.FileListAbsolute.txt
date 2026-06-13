@@ -1,6 +1,0 @@
-P:\BrookByrd\Projects\ESAPI\Introductory Resources\External and sample code\Tutorial\Projects\Example_Plan\bin\debug\Example_Plan.dll
-P:\BrookByrd\Projects\ESAPI\Introductory Resources\External and sample code\Tutorial\Projects\Example_Plan\bin\debug\Example_Plan.pdb
-P:\BrookByrd\Projects\ESAPI\Introductory Resources\External and sample code\Tutorial\Projects\Example_Plan\obj\x64\Debug\Example_Plan.csproj.AssemblyReference.cache
-P:\BrookByrd\Projects\ESAPI\Introductory Resources\External and sample code\Tutorial\Projects\Example_Plan\obj\x64\Debug\Example_Plan.csproj.CoreCompileInputs.cache
-P:\BrookByrd\Projects\ESAPI\Introductory Resources\External and sample code\Tutorial\Projects\Example_Plan\obj\x64\Debug\Example_Plan.dll
-P:\BrookByrd\Projects\ESAPI\Introductory Resources\External and sample code\Tutorial\Projects\Example_Plan\obj\x64\Debug\Example_Plan.pdb
