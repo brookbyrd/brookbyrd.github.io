@@ -18,23 +18,25 @@ plugins:
   - search
 
 nav:
-  - Home: index.md
+  - Home:
+      - 🏠 Main Page: index.md
+      - 01. Therapy Physics Basics: 01. Therapy Physics Basics/index.md
+      - 02. IMRT Planning: 02. IMRT Planning/index.md
+      - 03. Quality Assurance: 03. Quality Assurance/index.md
+      - 04. Radiation Safety: 04. Radiation Safety/index.md
+      - 05. Brachytherapy: 05. Brachytherapy/index.md
+      - 06. Proton Therapy: 06. Proton Therapy/index.md
+      - 07. Special Topics: 07. Special Topics/index.md
+      - 08. Imaging: 08. Imaging/index.md
+      - 09. SRS-SBRT: 09. SRS-SBRT/index.md
+      - 10. FMEA & TG-100: 10. FMEA & TG-100/index.md
+      - 11. Anatomy: 11. Anatomy/index.md
 
   - 01. Therapy Physics Basics:
-      - 01. Therapy Physics Basics/index.md
+      - 🏠 Return Home: index.md
+      - Overview: 01. Therapy Physics Basics/index.md
       - 1.1 Basic Interactions: 01. Therapy Physics Basics/1.1 Basic Interactions/index.md
       - 1.2 Cavity Theory: 01. Therapy Physics Basics/1.2 Cavity Theory/index.md
       - 1.3 PDDs: 01. Therapy Physics Basics/1.3 PDDs/index.md
       - 1.4 Electron Therapy: 01. Therapy Physics Basics/1.4 Electron Therapy/index.md
       - 1.5 Linac Anatomy: 01. Therapy Physics Basics/1.5 Linac Anatomy/index.md
-
-  - 02. IMRT Planning: 02. IMRT Planning/index.md
-  - 03. Quality Assurance: 03. Quality Assurance/index.md
-  - 04. Radiation Safety: 04. Radiation Safety/index.md
-  - 05. Brachytherapy: 05. Brachytherapy/index.md
-  - 06. Proton Therapy: 06. Proton Therapy/index.md
-  - 07. Special Topics: 07. Special Topics/index.md
-  - 08. Imaging: 08. Imaging/index.md
-  - 09. SRS-SBRT: 09. SRS-SBRT/index.md
-  - 10. FMEA & TG-100: 10. FMEA & TG-100/index.md
-  - 11. Anatomy: 11. Anatomy/index.md
