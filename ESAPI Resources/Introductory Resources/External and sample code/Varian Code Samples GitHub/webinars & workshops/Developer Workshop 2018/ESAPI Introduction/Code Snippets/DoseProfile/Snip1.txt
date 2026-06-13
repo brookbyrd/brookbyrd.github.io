@@ -1,3 +1,0 @@
-            //get access to the plan.
-            PlanSetup ps = context.PlanSetup;
-            Dose d = ps.Dose;
