@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/01. Therapy Physics Basics/index.md.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -185,6 +185,12 @@
   },
   "active": "c92e4866d0826861",
   "lastOpenFiles": [
+    "docs/01. Therapy Physics Basics/1.2 Cavity Theory/1.2 CavityTheory.md.md",
+    "docs/01. Therapy Physics Basics/1.1 Basic Interactions/1.1 Basic Interactions.md.md",
+    "docs/01. Therapy Physics Basics/index.md.md",
+    "1.4 Electron Therapy.md",
+    "1.2 Cavity Theory.md",
+    "docs/01. Therapy Physics Basics/1.4 Electron Therapy/1.4 ElectronTherapy.md.md",
     "site/search/search_index.json",
     "site/search",
     "site/11. Anatomy/11.  Anatomy Review/index.html",
@@ -196,7 +202,6 @@
     "site/09. SRS-SBRT/9.3 Linac-Based SRS/9.3 Linac-Based SRS/index.html",
     "site/09. SRS-SBRT/9.3 Linac-Based SRS/9.3 Linac-Based SRS",
     "site/09. SRS-SBRT/09. SRS-SBRT.md/index.html",
-    "site/09. SRS-SBRT/9.3 Linac-Based SRS",
     "site/09. SRS-SBRT/09. SRS-SBRT.md",
     "site/02. IMRT Planning/02. IMRT Planning.md",
     "site/01. Therapy Physics Basics/1.5 Linac Anatomy/1.5 Linac Anatomy.md",
@@ -216,11 +221,6 @@
     "docs/07. Special Topics/Adaptive/Adaptive.md",
     "docs/07. Special Topics/07. Special Topics.md",
     "docs/07. Special Topics/TSET/TSET.md",
-    "docs/07. Special Topics/MRI-Linac/MRI-Linac.md",
-    "docs/06. Proton Therapy/6.4. Dose Calculation Algorithms.md",
-    "docs/06. Proton Therapy/6.6 Clinical Scenarios.md",
-    "docs/06. Proton Therapy/6.4. Proton-Specific Imaging.md",
-    "docs/06. Proton Therapy/6.1. Proton Physics - 101.md",
     "site/assets/images/favicon.png"
   ]
 }
