@@ -16,11 +16,7 @@ tags:
 - [1.4 Electron Therapy](docs/01.%20Therapy%20Physics%20Basics/1.4%20Electron%20Therapy/index.md.md)
 - [1.5 Linac Anatomy](docs/01.%20Therapy%20Physics%20Basics/1.5%20Linac%20Anatomy/index.md.md)
 
--[index.md](docs/01.%20Therapy%20Physics%20Basics/1.1%20Basic%20Interactions/index.md.md)  
--[1.2 Cavity Theory](docs/01.%20Therapy%20Physics%20Basics/1.2%20Cavity%20Theory/index.md.md)  
--[index.md](docs/01.%20Therapy%20Physics%20Basics/1.3%20PDDs/index.md.md)  
--[1.4 Electron Therapy](docs/01.%20Therapy%20Physics%20Basics/1.4%20Electron%20Therapy/index.md.md)  
--[index.md](docs/01.%20Therapy%20Physics%20Basics/1.5%20Linac%20Anatomy/index.md.md)
+
 
 ---
 

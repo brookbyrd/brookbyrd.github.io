@@ -9,3 +9,11 @@ theme:
 plugins:
   - search
 
+nav:
+  - Home: index.md
+
+  - 01. Therapy Physics Basics:
+      - 01. Therapy Physics Basics/index.md
+      - 1.1 Basic Interactions: 01. Therapy Physics Basics/1.1 Basic Interactions/index.md
+      - 1.2 Cavity Theory: 01. Therapy Physics Basics/1.2 Cavity Theory/index.md
+      - 1.3 PDDs: 01. Therapy Physics Basics/1.3 PDDs/index.md
