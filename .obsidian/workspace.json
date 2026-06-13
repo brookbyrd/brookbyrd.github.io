@@ -11,24 +11,10 @@
             "id": "c92e4866d0826861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/TG-51 Dosimetry/index.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -193,25 +179,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "c92e4866d0826861",
+  "active": "0fdf8ac6965fb828",
   "lastOpenFiles": [
     "site/search/search_index.json",
     "site/search",
-    "site/TG-51 Dosimetry/TG-51 Explained/index.html",
-    "site/TG-51 Dosimetry/index.html",
-    "site/TG-51 Dosimetry/TG-51 Explained",
-    "site/TG-51 Dosimetry",
-    "site/Proton Therapy/Proton Basics/index.html",
-    "site/Proton Therapy/Proton Basics",
-    "site/Proton Therapy",
-    "site/IMRT Planning/How VMAT Optimization Actually Works/index.html",
-    "site/IMRT Planning/How VMAT Optimization Actually Works",
-    "docs/Brachytherapy/index.md",
-    "docs/TG-51 Dosimetry/index.md",
-    "docs/index.md",
-    "docs/Brachytherapy/TG-43 Formulism.md",
-    "docs/Proton Therapy/Proton Basics.md",
-    "docs/TG-51 Dosimetry/TG-51 Explained.md",
+    "site/11. Anatomy/11.  Anatomy Review/index.html",
+    "site/11. Anatomy/11.  Anatomy Review",
+    "site/11. Anatomy",
+    "site/10. FMEA & TG-100/10. FMEA & TG-100.md/index.html",
+    "site/10. FMEA & TG-100/10. FMEA & TG-100.md",
+    "site/10. FMEA & TG-100",
+    "site/09. SRS-SBRT/9.3 Linac-Based SRS/9.3 Linac-Based SRS/index.html",
+    "site/09. SRS-SBRT/9.3 Linac-Based SRS/9.3 Linac-Based SRS",
+    "site/09. SRS-SBRT/09. SRS-SBRT.md/index.html",
+    "site/09. SRS-SBRT/9.3 Linac-Based SRS",
+    "site/09. SRS-SBRT/09. SRS-SBRT.md",
+    "site/02. IMRT Planning/02. IMRT Planning.md",
+    "site/01. Therapy Physics Basics/1.5 Linac Anatomy/1.5 Linac Anatomy.md",
+    "site/01. Therapy Physics Basics/1.4 Electron Therapy/1.4 ElectronTherapy.md",
+    "site/01. Therapy Physics Basics/1.3 PDDs/1.3 PDDs.md",
+    "site/01. Therapy Physics Basics/1.2 Cavity Theory/1.2 CavityTheory.md",
+    "site/01. Therapy Physics Basics/1.1 Basic Interactions/1.1 Basic Interactions.md",
+    "site/01. Therapy Physics Basics/01. TherapyPhysicsBasics.md",
+    "docs/ESAPI Resources/index.md",
+    "docs/11. Anatomy/11.  Anatomy Review.md",
+    "docs/10. FMEA & TG-100/10. FMEA & TG-100.md.md",
+    "docs/09. SRS-SBRT/9.3 Linac-Based SRS/9.3 Linac-Based SRS.md",
+    "docs/09. SRS-SBRT/09. SRS-SBRT.md.md",
+    "docs/08. Imaging/08. Imaging.md",
+    "docs/07. Special Topics/TBI/TBI.md",
+    "docs/07. Special Topics/Adaptive/Adaptive.md",
+    "docs/07. Special Topics/07. Special Topics.md",
+    "docs/07. Special Topics/TSET/TSET.md",
+    "docs/07. Special Topics/MRI-Linac/MRI-Linac.md",
+    "docs/06. Proton Therapy/6.4. Dose Calculation Algorithms.md",
+    "docs/06. Proton Therapy/6.6 Clinical Scenarios.md",
+    "docs/06. Proton Therapy/6.4. Proton-Specific Imaging.md",
+    "docs/06. Proton Therapy/6.1. Proton Physics - 101.md",
+    "docs/06. Proton Therapy/6.5. Site-Specific Guidance.md",
     "site/assets/images/favicon.png"
   ]
 }
