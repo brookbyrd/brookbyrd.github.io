@@ -183,8 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "c92e4866d0826861",
+  "active": "0fdf8ac6965fb828",
   "lastOpenFiles": [
+    "docs/stylesheets/extra.css",
+    "docs/stylesheets",
+    "docs/untitled folder",
+    "site/01. Therapy Physics Basics/1.5 Linac Anatomy/index.html",
     "docs/01. Therapy Physics Basics/1.5 Linac Anatomy/index.md",
     "docs/01. Therapy Physics Basics/index.md",
     "docs/01. Therapy Physics Basics/1.1 Basic Interactions/index.md",
@@ -200,11 +204,8 @@
     "site/01. Therapy Physics Basics/1.5 Linac Anatomy/index.md",
     "site/01. Therapy Physics Basics/1.4 Electron Therapy/index.md/index.html",
     "site/01. Therapy Physics Basics/1.4 Electron Therapy/index.md",
-    "site/01. Therapy Physics Basics/1.3 PDDs/index.md/index.html",
     "site/01. Therapy Physics Basics/1.3 PDDs/index.md",
-    "site/01. Therapy Physics Basics/1.2 Cavity Theory/index.md/index.html",
     "site/01. Therapy Physics Basics/1.2 Cavity Theory/index.md",
-    "site/01. Therapy Physics Basics/1.1 Basic Interactions/index.md/index.html",
     "site/01. Therapy Physics Basics/1.1 Basic Interactions/index.md",
     "docs/01. Therapy Physics Basics/1.1 Basic Interactions/Photoelectric Effect.md",
     "1.4 Electron Therapy.md",
