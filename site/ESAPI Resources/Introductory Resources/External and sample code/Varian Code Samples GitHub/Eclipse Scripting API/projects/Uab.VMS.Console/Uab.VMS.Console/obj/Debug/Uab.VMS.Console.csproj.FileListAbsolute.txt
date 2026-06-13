@@ -1,8 +1,0 @@
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\Uab.VMS.Console.csprojAssemblyReference.cache
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\MainWindow.baml
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\Splash\Splash.baml
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\MainWindow.g.cs
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\Splash\Splash.g.cs
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\App.g.cs
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\Uab.VMS.Console.esapi_Content.g.cs
-H:\Scripting\ESAPI\ESAPI Training\Varian Code Samples\Eclipse Scripting API\projects\Uab.VMS.Console\Uab.VMS.Console\obj\Debug\Uab.VMS.Console.esapi_MarkupCompile.cache
