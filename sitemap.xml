@@ -189,7 +189,11 @@
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
-         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/05.%20Brachytherapy/</loc>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.1.%20Brachy%20QA/</loc>
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
@@ -201,7 +205,19 @@
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.10.%20Radiation%20Safety/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.2.%20TG-43%20Dosimetry%20Formulism/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
          <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.2.%20TG-43%20Dosimetry%20Formulism/TG-43%20Formulism/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.3.%20Source%20Exchange/</loc>
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
@@ -209,11 +225,35 @@
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.4.%20Vaginal%20Cylinder/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
          <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.4.%20Vaginal%20Cylinder/PORTEC/</loc>
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.5.%20Gyn%20Brachy/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
          <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.5.%20Gyn%20Brachy/EMBRACE%20Clinical%20Trials/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.6%20Surface%20Brachy/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.7.%20Prostate%20Brachy/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.8.%20Ultrasound%20QA/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/05.%20Brachytherapy/5.9.%20Radiopharmaceuticals/</loc>
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
@@ -277,6 +317,10 @@
          <lastmod>2026-06-13</lastmod>
     </url>
     <url>
+         <loc>https://brookbyrd.github.io/08.%20Imaging/CT%20Sim/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
          <loc>https://brookbyrd.github.io/09.%20SRS-SBRT/</loc>
          <lastmod>2026-06-13</lastmod>
     </url>
@@ -290,6 +334,46 @@
     </url>
     <url>
          <loc>https://brookbyrd.github.io/11.%20Anatomy/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/ESAPI%20Resources/Examples/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/ESAPI%20Resources/Introductory%20Resources/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/ESAPI%20Resources/Workshop_Starter_Script/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/Graduate%20Classes/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/Graduate%20Classes/AI%20in%20Medical%20Physics/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/Graduate%20Classes/Coding%20Bootcamp/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/Graduate%20Classes/Entrepreneurship/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/Graduate%20Classes/Image%20Processing/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/Graduate%20Classes/Medical%20Imaging/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://brookbyrd.github.io/TG-reports/</loc>
          <lastmod>2026-06-13</lastmod>
     </url>
 </urlset>
