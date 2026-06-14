@@ -1,4 +1,4 @@
-site_name: "Dr. Byrd's Eye"
+site_name: "Dr. Byrd's Eye View"
 site_url: https://brookbyrd.github.io/
 
 theme:
@@ -44,48 +44,31 @@ nav:
       - 3.5 PSQA: 03. Quality Assurance/3.5 PSQA/index.md
 
   - 04. Radiation Safety:
-      - Overview: 04. Radiation Safety/index.md
-      - 4.1 Public Limits (10CFR20):
-          - Overview: 04. Radiation Safety/4.1 Public Limits (10CFR20)/index.md
-      - 4.2 NCRP-151 - Shielding:
-          - Overview: 04. Radiation Safety/4.2 NCRP-151 - Shielding/index.md
-      - 4.3 NRC 10CFR35 (Use of Byproduct Material):
-          - Overview: 04. Radiation Safety/4.3 NRC 10CFR35 (Use of Byproduct Material)/index.md
-      - 4.4 Reportable Medical Event:
-          - Overview: 04. Radiation Safety/4.4 Reportable Medical Event/index.md
-      - 4.5 Patient Release Criteria (10CFR35.75):
-          - Overview: 04. Radiation Safety/4.5 Patient Release Criteria (10CFR35.75)/index.md
-      - 4.6 Shipping & Labeling (10CFR37):
-          - Overview: 04. Radiation Safety/4.6 Shipping & Labeling (10CFR37)/index.md
-      - 4.7 Pacemakers – TG-34 & TG-203:
-          - Overview: 04. Radiation Safety/4.7 Pacemakers – TG-34 & TG-203/index.md
-      - 4.8 Pregnancy – TG-36:
-          - Overview: 04. Radiation Safety/4.8 Pregnancy – TG-36/index.md
+      - Overview of Radiation Safety: 04. Radiation Safety/index.md
+      - 4.1 Public Limits (10CFR20): 04. Radiation Safety/4.1  Public Limits (10CFR20)/index.md
+      - 4.2 NCRP-151 - Shielding: 04. Radiation Safety/4.2 NCRP-151 - Shielding/index.md
+      - 4.3 NRC 10CFR35 (Use of Byproduct): 04. Radiation Safety/4.3 NRC 10CFR35 (Use of Byproduct)/index.md
+      - 4.4 Reportable Medical Event (10CFR35): 04. Radiation Safety/4.4 Reportable Medical Event (10CFR35)/index.md
+      - 4.5 Patient Release Criteria (10CFR35): 04. Radiation Safety/4.5 Patient Release Criteria (10CFR35)/index.md
+      - 4.6 Shipping & Labeling (10CFR35): 04. Radiation Safety/4.6 Shipping & Labeling (10CFR35)/index.md
+      - 4.7 Pacemakers - TG-34 & 203: 04. Radiation Safety/4.7 Pacemakers - TG-34 & 203/index.md
+      - 4.8 Pregnancy - TG-36: 04. Radiation Safety/4.8 Pregnancy - TG-36/index.md
 
   - 05. Brachytherapy:
-      - Overview: 05. Brachytherapy/index.md
+      - Overview of Brachytherapy: 05. Brachytherapy/index.md
 
       - 5.1 Brachy QA:
-          - Overview: 05. Brachytherapy/5.1. Brachy QA/index.md
-          - Daily, Monthly, and Annual QA: 05. Brachytherapy/5.1. Brachy QA/Daily, Monthly, and Annual QA.md
-          - Planning Chart Check: 05. Brachytherapy/5.1. Brachy QA/Planning Chart Check.md
-
+          - 5.1 Brachy QA: 05. Brachytherapy/5.1. Brachy QA/index.md
       - 5.2 TG-43 Dosimetry Formulism:
-          - Overview: 05. Brachytherapy/5.2. TG-43 Dosimetry Formulism/index.md
-          - TG-43 Formulism: 05. Brachytherapy/5.2. TG-43 Dosimetry Formulism/TG-43 Formulism.md
-
+          - 5.2 TG-43 Dosimetry Formulism: 05. Brachytherapy/5.2. TG-43 Dosimetry Formulism/index.md
       - 5.3 Source Exchange:
-          - Overview: 05. Brachytherapy/5.3. Source Exchange/index.md
-          - Source Exchange: 05. Brachytherapy/5.3. Source Exchange/Source Exchange.md
-
+          - 5.3 Source Exchange: 05. Brachytherapy/5.3. Source Exchange/index.md
       - 5.4 Vaginal Cylinder:
-          - Overview: 05. Brachytherapy/5.4. Vaginal Cylinder/index.md
+          - 5.4 Vaginal Cylinder: 05. Brachytherapy/5.4. Vaginal Cylinder/index.md
           - PORTEC: 05. Brachytherapy/5.4. Vaginal Cylinder/PORTEC.md
-
       - 5.5 Gyn Brachy:
-          - Overview: 05. Brachytherapy/5.5. Gyn Brachy/index.md
+          - 5.5 Gyn Brachy: 05. Brachytherapy/5.5. Gyn Brachy/index.md
           - EMBRACE Clinical Trials: 05. Brachytherapy/5.5. Gyn Brachy/EMBRACE Clinical Trials.md
-
       - 5.6 Surface Brachy: 05. Brachytherapy/5.6 Surface Brachy/index.md
       - 5.7 Prostate Brachy: 05. Brachytherapy/5.7. Prostate Brachy/index.md
       - 5.8 Ultrasound QA: 05. Brachytherapy/5.8. Ultrasound QA/index.md
@@ -94,18 +77,18 @@ nav:
 
   - 06. Proton Therapy:
       - Overview of Proton Therapy: 06. Proton Therapy/index.md
-      - 6.1 Proton Physics - 101: 06. Proton Therapy/6.1 Proton Physics - 101/index.md
-      - 6.2 Basics of Proton Planning: 06. Proton Therapy/6.2 Basics of Proton Planning/index.md
-      - 6.3 Range Uncertainty: 06. Proton Therapy/6.3 Range Uncertainty/index.md
-      - 6.4 Dose Calculation Algorithms: 06. Proton Therapy/6.4 Dose Calculation Algorithms/index.md
-      - 6.5 Proton-Specific Imaging: 06. Proton Therapy/6.4 Proton-Specific Imaging/index.md
-      - 6.6 Site-Specific Guidance: 06. Proton Therapy/6.5 Site-Specific Guidance/index.md
-      - 6.7 Clinical Scenarios: 06. Proton Therapy/6.6 Clinical Scenarios/index.md
-      - 6.8 Machine QA: 06. Proton Therapy/6.6 Machine QA/index.md
+      - 6.1 Proton Physics - 101: 06. Proton Therapy/6.1. Proton Physics - 101/index.md
+      - 6.2 Basics of Proton Planning: 06. Proton Therapy/6.2. Basics of Proton Planning/index.md
+      - 6.3 Range Uncertainty: 06. Proton Therapy/6.3. Range Uncertainty/index.md
+      - 6.4 Dose Calculation Algorithms: 06. Proton Therapy/6.4. Dose Calculation Algorithms/index.md
+      - 6.5 Proton-Specific Imaging: 06. Proton Therapy/6.5. Proton-Specific Imaging/index.md
+      - 6.6 Site-Specific Guidance: 06. Proton Therapy/6.6. Site-Specific Guidance/index.md
+      - 6.7 Clinical Scenarios: 06. Proton Therapy/6.7. Clinical Scenarios/index.md
+      - 6.8 Machine QA: 06. Proton Therapy/6.8. Machine QA/index.md
 
   - 07. Special Topics:
       - Overview of Special Topics: 07. Special Topics/index.md
-      - Adaptive: 07. Special Topics/Adaptive/index.md
+      - Adaptive RT: 07. Special Topics/Adaptive/index.md
       - MRI-Linac: 07. Special Topics/MRI-Linac/index.md
       - TBI: 07. Special Topics/TBI/index.md
       - TSET: 07. Special Topics/TSET/index.md
