@@ -44,16 +44,23 @@ nav:
       - 3.5 PSQA: 03. Quality Assurance/3.5 PSQA/index.md
 
   - 04. Radiation Safety:
-      - Overview of Radiation Safety: 04. Radiation Safety/index.md
-      - 4.1 Public Limits (10CFR20): 04. Radiation Safety/4.1 Public Limits (10CFR20)/index.md
-      - 4.2 NCRP-151 - Shielding: 04. Radiation Safety/4.2 NCRP-151 - Shielding/index.md
-      - 4.3 NRC 10CFR35 (Use of Byproduct Material): 04. Radiation Safety/4.3 NRC 10CFR35 (Use of Byproduct Material)/index.md
-      - 4.4 Reportable Medical Event: 04. Radiation Safety/4.4 Reportable Medical Event/index.md
-      - 4.5 Patient Release Criteria (10CFR35.75): 04. Radiation Safety/4.5 Patient Release Criteria (10CFR35.75)/index.md
-      - 4.6 Shipping & Labeling (10CFR37): 04. Radiation Safety/4.6 Shipping & Labeling (10CFR37)/index.md
-      - 4.7 Pacemakers – TG-34 & TG-203: 04. Radiation Safety/4.7 Pacemakers – TG-34 & TG-203/index.md
-      - 4.8 Pregnancy – TG-36: 04. Radiation Safety/4.8 Pregnancy – TG-36/index.md
-
+      - Overview: 04. Radiation Safety/index.md
+      - 4.1 Public Limits (10CFR20):
+          - Overview: 04. Radiation Safety/4.1 Public Limits (10CFR20)/index.md
+      - 4.2 NCRP-151 - Shielding:
+          - Overview: 04. Radiation Safety/4.2 NCRP-151 - Shielding/index.md
+      - 4.3 NRC 10CFR35 (Use of Byproduct Material):
+          - Overview: 04. Radiation Safety/4.3 NRC 10CFR35 (Use of Byproduct Material)/index.md
+      - 4.4 Reportable Medical Event:
+          - Overview: 04. Radiation Safety/4.4 Reportable Medical Event/index.md
+      - 4.5 Patient Release Criteria (10CFR35.75):
+          - Overview: 04. Radiation Safety/4.5 Patient Release Criteria (10CFR35.75)/index.md
+      - 4.6 Shipping & Labeling (10CFR37):
+          - Overview: 04. Radiation Safety/4.6 Shipping & Labeling (10CFR37)/index.md
+      - 4.7 Pacemakers – TG-34 & TG-203:
+          - Overview: 04. Radiation Safety/4.7 Pacemakers – TG-34 & TG-203/index.md
+      - 4.8 Pregnancy – TG-36:
+          - Overview: 04. Radiation Safety/4.8 Pregnancy – TG-36/index.md
 
   - 05. Brachytherapy:
       - Overview: 05. Brachytherapy/index.md
@@ -84,7 +91,7 @@ nav:
       - 5.8 Ultrasound QA: 05. Brachytherapy/5.8. Ultrasound QA/index.md
       - 5.9 Radiopharmaceuticals: 05. Brachytherapy/5.9. Radiopharmaceuticals/index.md
       - 5.10 Radiation Safety: 05. Brachytherapy/5.10. Radiation Safety/index.md
-      
+
   - 06. Proton Therapy:
       - Overview of Proton Therapy: 06. Proton Therapy/index.md
       - 6.1 Proton Physics - 101: 06. Proton Therapy/6.1 Proton Physics - 101/index.md

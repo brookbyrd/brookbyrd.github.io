@@ -11,10 +11,14 @@
             "id": "c92e4866d0826861",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/ESAPI Resources/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -181,6 +185,7 @@
   },
   "active": "c92e4866d0826861",
   "lastOpenFiles": [
+    "docs/ESAPI Resources/index.md",
     "site/assets/javascripts/lunr/min/lunr.zh.min.js",
     "site/assets/javascripts/lunr/min/lunr.vi.min.js",
     "site/assets/javascripts/lunr/min/lunr.tr.min.js",
@@ -191,7 +196,6 @@
     "site/assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
     "site/assets/javascripts/lunr/min/lunr.sa.min.js",
     "site/assets/javascripts/lunr/min/lunr.ru.min.js",
-    "site/assets/javascripts/lunr/min/lunr.ro.min.js",
     "site/assets/images/favicon.png",
     "docs/Graduate Classes/Medical Imaging/index.md",
     "docs/Graduate Classes/Image Processing/index.md",
