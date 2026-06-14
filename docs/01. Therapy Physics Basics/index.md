@@ -33,7 +33,7 @@ ___
 
 ---
 ### Related Topics
-- [[3.3 Machine QA]]
+- [[docs/03. Quality Assurance/3.3 Machine QA/index]]
 
 ___
 
