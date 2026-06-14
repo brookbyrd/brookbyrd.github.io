@@ -67,19 +67,19 @@ A teaching repository for medical physics notes, clinical workflows, QA resource
 ## 🚀 Start Here  
   
 1. 📘 [Therapy Physics Basics](01.%20Therapy%20Physics%20Basics/)  
-- Radiation interactions, cavity theory, PDDs, electrons, and linac anatomy.  
+	- Radiation interactions, cavity theory, PDDs, electrons, and linac anatomy.  
   
 2. 🖥️ [IMRT Planning](02.%20IMRT%20Planning/)  
-- Optimization, VMAT, objectives, and plan evaluation.  
+	- Optimization, VMAT, objectives, and plan evaluation.  
   
 3. ✅ [Quality Assurance](03.%20Quality%20Assurance/)  
-- TG-51, commissioning, machine QA, and PSQA.  
+	- TG-51, commissioning, machine QA, and PSQA.  
   
 4. ☢️ [Radiation Safety](04.%20Radiation%20Safety/)  
-- Shielding, NRC regulations, surveys, and patient release criteria.  
+	- Shielding, NRC regulations, surveys, and patient release criteria.  
   
 5. 🎯 [SRS-SBRT](09.%20SRS-SBRT/)  
-- Small-field dosimetry, commissioning, and stereotactic QA.
+	- Small-field dosimetry, commissioning, and stereotactic QA.
 
 ---
 ## Quick Links 
@@ -87,8 +87,8 @@ A teaching repository for medical physics notes, clinical workflows, QA resource
 - 🧠 [ESAPI Resources](ESAPI%20Resources/)  
 - 📚 [Graduate Classes](Graduate%20Classes/)  
 - 📖 [TG Reports](TG-reports/)  
-- 🎯 [ABR Exam Prep](01.%20Therapy%20Physics%20Basics/)  
-- 🔬 [Research Portfolio](https://scholar.google.com/)
+- 🎯 [ABR Exam Prep](ABR%20Part%203%20Review/)  
+- 🔬 [Research Portfolio](https://scholar.google.com/citations?user=aRO_5N0AAAAJ&hl=en)
 
 ---
 

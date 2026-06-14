@@ -127,6 +127,12 @@ nav:
   - 11. Anatomy:
       - Overview of Anatomy: 11. Anatomy/index.md
 
+  - TG Reports:
+      - Overview of TG Reports: TG-reports/index.md
+
+  - ABR Part 3:
+      - ABR Part 3: ABR Part 3 Review/index.md
+  
   - ESAPI Resources:
       - Overview of ESAPI: ESAPI Resources/index.md
       - Examples: ESAPI Resources/Examples/index.md
@@ -134,7 +140,5 @@ nav:
       - Workshop Starter Script: ESAPI Resources/Workshop_Starter_Script/index.md
 
   - Graduate Classes:
-      - Overview: Graduate Classes/index.md
+      - Overview of Classes: Graduate Classes/index.md
 
-  - TG Reports:
-      - Overview: TG-reports/index.md
