@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/06. Proton Therapy/6.6 Machine QA.md",
+                "file": "docs/05. Brachytherapy/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6.6 Machine QA"
+              "title": "index"
             }
           }
         ]
@@ -185,6 +185,17 @@
   },
   "active": "c92e4866d0826861",
   "lastOpenFiles": [
+    "docs/06. Proton Therapy/6.6 Machine QA.md",
+    "site/search/search_index.json",
+    "site/search",
+    "site/TG-reports/index.html",
+    "site/TG-reports",
+    "site/Graduate Classes/Medical Imaging/index.html",
+    "site/Graduate Classes/Image Processing/index.html",
+    "site/Graduate Classes/Entrepreneurship/index.html",
+    "site/Graduate Classes/Coding Bootcamp/index.html",
+    "site/Graduate Classes/AI in Medical Physics/index.html",
+    "site/Graduate Classes/index.html",
     "docs/01. Therapy Physics Basics/index.md",
     "docs/01. Therapy Physics Basics/1.4 Electron Therapy/index.md",
     "docs/01. Therapy Physics Basics/1.3 PDDs/index.md",
@@ -210,17 +221,6 @@
     "docs/08. Imaging/IGRT/index.md",
     "docs/08. Imaging/DECT/index.md",
     "docs/08. Imaging/CT Sim/index.md",
-    "site/search/search_index.json",
-    "site/search",
-    "site/TG-reports/index.html",
-    "site/TG-reports",
-    "site/Graduate Classes/Medical Imaging/index.html",
-    "site/Graduate Classes/Image Processing/index.html",
-    "site/Graduate Classes/Entrepreneurship/index.html",
-    "site/Graduate Classes/Coding Bootcamp/index.html",
-    "site/Graduate Classes/AI in Medical Physics/index.html",
-    "site/Graduate Classes/index.html",
-    "docs/05. Brachytherapy/5.2. TG-43 Dosimetry Formulism/index.md",
     "site/assets/images/favicon.png"
   ]
 }

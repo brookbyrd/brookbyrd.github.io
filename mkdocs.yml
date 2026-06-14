@@ -56,13 +56,35 @@ nav:
 
 
   - 05. Brachytherapy:
-      - Overview of Brachytherapy: 05. Brachytherapy/index.md
-      - 5.1 Brachy QA: 05. Brachytherapy/5.1 Brachy QA/index.md
-      - 5.2 TG-43 Dosimetry Formalism: 05. Brachytherapy/5.2 TG-43 Dosimetry Formalism/index.md
-      - 5.3 Source Exchange: 05. Brachytherapy/5.3 Source Exchange/index.md
-      - 5.4 Vaginal Cylinder: 05. Brachytherapy/5.4 Vaginal Cylinder/index.md
-      - 5.5 Gyn Brachy: 05. Brachytherapy/5.5 Gyn Brachy/index.md
+      - Overview: 05. Brachytherapy/index.md
 
+      - 5.1 Brachy QA:
+          - Overview: 05. Brachytherapy/5.1. Brachy QA/index.md
+          - Daily, Monthly, and Annual QA: 05. Brachytherapy/5.1. Brachy QA/Daily, Monthly, and Annual QA.md
+          - Planning Chart Check: 05. Brachytherapy/5.1. Brachy QA/Planning Chart Check.md
+
+      - 5.2 TG-43 Dosimetry Formulism:
+          - Overview: 05. Brachytherapy/5.2. TG-43 Dosimetry Formulism/index.md
+          - TG-43 Formulism: 05. Brachytherapy/5.2. TG-43 Dosimetry Formulism/TG-43 Formulism.md
+
+      - 5.3 Source Exchange:
+          - Overview: 05. Brachytherapy/5.3. Source Exchange/index.md
+          - Source Exchange: 05. Brachytherapy/5.3. Source Exchange/Source Exchange.md
+
+      - 5.4 Vaginal Cylinder:
+          - Overview: 05. Brachytherapy/5.4. Vaginal Cylinder/index.md
+          - PORTEC: 05. Brachytherapy/5.4. Vaginal Cylinder/PORTEC.md
+
+      - 5.5 Gyn Brachy:
+          - Overview: 05. Brachytherapy/5.5. Gyn Brachy/index.md
+          - EMBRACE Clinical Trials: 05. Brachytherapy/5.5. Gyn Brachy/EMBRACE Clinical Trials.md
+
+      - 5.6 Surface Brachy: 05. Brachytherapy/5.6 Surface Brachy/index.md
+      - 5.7 Prostate Brachy: 05. Brachytherapy/5.7. Prostate Brachy/index.md
+      - 5.8 Ultrasound QA: 05. Brachytherapy/5.8. Ultrasound QA/index.md
+      - 5.9 Radiopharmaceuticals: 05. Brachytherapy/5.9. Radiopharmaceuticals/index.md
+      - 5.10 Radiation Safety: 05. Brachytherapy/5.10. Radiation Safety/index.md
+      
   - 06. Proton Therapy:
       - Overview of Proton Therapy: 06. Proton Therapy/index.md
       - 6.1 Proton Physics - 101: 06. Proton Therapy/6.1 Proton Physics - 101/index.md
