@@ -1,10 +1,9 @@
-# Home
 
-![[site/Exam Prep/Rotation 3 - Beam Data and Radiation Safety/Quizes/Q1.PNG]]
 
 # 🎓 Welcome
 
-## Dr. Byrd's Eye  
+## Dr. Byrd's EyeView
+
 ### Medical Physics Help Center
 
 A teaching repository for medical physics notes, clinical workflows, QA resources, ABR preparation, and graduate-level educational content.
@@ -13,76 +12,74 @@ A teaching repository for medical physics notes, clinical workflows, QA resource
 
 ## Browse by Category
 
-### 📘 [[docs/01. Therapy Physics Basics/index.md]]
-Fundamental radiation physics, dose, interactions, and treatment basics.
+## Browse by Category
 
-### 🖥️ [[02. IMRT Planning|02. IMRT Planning]]
-IMRT, VMAT, optimization, objectives, planning tips, and plan evaluation.
+<div class="grid cards" markdown>
 
-### ✅ [[docs/03. Quality Assurance/index|03. Quality Assurance]]
-Machine QA, patient-specific QA, TG reports, tolerances, and clinical checks.
+- 📘 **[01. Therapy Physics Basics](01.%20Therapy%20Physics%20Basics/)**
 
-### ☢️ [[docs/04. Radiation Safety/index|04. Radiation Safety]]
-Shielding, regulations, surveys, contamination, and safety principles.
+    Fundamental radiation physics, dose, interactions, cavity theory, PDDs, electrons, and linac anatomy.
 
-### 📍 [[docs/05. Brachytherapy/index|05. Brachytherapy]]
-HDR, LDR, applicators, source calibration, planning, and QA.
+- 🖥️ **[02. IMRT Planning](02.%20IMRT%20Planning/)**
 
-### ⚛️ [[docs/06. Proton Therapy/index|06. Proton Therapy]]
-Proton interactions, range uncertainty, LET, robustness, and clinical workflows.
+    IMRT, VMAT, optimization, objectives, planning strategy, and plan evaluation.
 
-### ⭐ [[docs/07. Special Topics/index|07. Special Topics]]
-Advanced or mixed topics that do not fit cleanly into one core section.
+- ✅ **[03. Quality Assurance](03.%20Quality%20Assurance/)**
 
-### 🫁 [[docs/08. Imaging/index|08. Imaging]]
-CT, MRI, CBCT, IGRT, image quality, artifacts, and registration.
+    Machine QA, TG reports, commissioning, PSQA, detector systems, and clinical checks.
 
-### 🎯 [[09. SRS-SBRT|09. SRS-SBRT]]
-Stereotactic treatments, commissioning, Winston-Lutz, small fields, and QA.
+- ☢️ **[04. Radiation Safety](04.%20Radiation%20Safety/)**
 
-### 🧩 [[10. FMEA & TG-100|10. FMEA & TG-100]]
-Quality management, process maps, risk analysis, FMEA, and TG-100 methods.
+    Shielding, NRC regulations, contamination control, patient release criteria, and surveys.
 
-### 🫀 [[11. Anatomy|11. Anatomy]]
-Radiation oncology anatomy, contours, OARs, and site-specific structures.
+- 📍 **[05. Brachytherapy](05.%20Brachytherapy/)**
 
----
+    HDR, LDR, source calibration, applicators, treatment planning, and brachy QA.
 
----
+- ⚛️ **[06. Proton Therapy](06.%20Proton%20Therapy/)**
 
-## Featured Articles
+    Proton physics, planning, range uncertainty, robustness, imaging, and machine QA.
 
-- [[How VMAT Optimization Actually Works]]
-- [[TG-51]]
-- [[Building an ESAPI Autoplanner]]
-- [[SRS Commissioning]]
-- [[TG-142 Machine QA]]
+- ⭐ **[07. Special Topics](07.%20Special%20Topics/)**
 
----
+    Adaptive radiotherapy, MRI-Linac, TBI, TSET, and emerging technologies.
 
-## Quick Links
+- 🫁 **[08. Imaging](08.%20Imaging/)**
 
-- [[ABR Exam Prep]]
-- [[ESAPI Resources]]
-- [[Graduate Classes]]
-- [[Research Portfolio]]
-- [[Useful References]]
+    CT, MRI, PET, DECT, IGRT, SGRT, ultrasound, and image registration.
+
+- 🎯 **[09. SRS-SBRT](09.%20SRS-SBRT/)**
+
+    Small-field dosimetry, commissioning, Gamma Knife, CyberKnife, and linac-based SRS.
+
+- 🧩 **[10. FMEA & TG-100](10.%20FMEA%20%26%20TG-100/)**
+
+    Risk analysis, process mapping, quality management, and TG-100 implementation.
+
+- 🫀 **[11. Anatomy](11.%20Anatomy/)**
+
+    Clinical anatomy, contours, organs-at-risk, and treatment planning structures.
+
+</div>
 
 ---
 
 ## Start Here
 
-1. [[01. Therapy Physics Basics]]
-2. [[02. IMRT Planning]]
-3. [[docs/03. Quality Assurance/index]]
-4. [[TG-51]]
-5. [[ABR Exam Prep]]
+1. 📘 Therapy Physics Basics
+    
+2. 🖥️ IMRT Planning
+    
+3. ✅ Quality Assurance
+    
+4. ☢️ Radiation Safety
+    
+5. 🎯 SRS-SBRT
+    
 
 ---
 
-> [!tip]
-> Use the sidebar to browse by topic, or use search to quickly find a report, equation, workflow, or clinical concept.
-
+> **Tip:** Use the sidebar to browse by topic or the search bar to quickly find a report, equation, workflow, or clinical concept.
 
 ## Last Updated
 
