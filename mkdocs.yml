@@ -3,6 +3,8 @@ site_url: https://brookbyrd.github.io/
 
 theme:
   name: material
+  icon:
+    logo: material/radioactive
   palette:
     scheme: slate
   features:
@@ -12,6 +14,9 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+
+extra:
+  favicon: assets/favicon.ico
 
 plugins:
   - search

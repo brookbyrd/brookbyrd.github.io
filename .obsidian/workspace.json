@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01. Therapy Physics Basics/index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01. Therapy Physics Basics/index.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,20 +185,22 @@
   },
   "active": "c92e4866d0826861",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/06. Proton Therapy/index.md",
+    "docs/assets/favicon.ico",
+    "docs/assets/banner.png",
+    "docs/assets",
+    "docs/untitled folder",
     "docs/01. Therapy Physics Basics/index.md",
     "site/search/search_index.json",
     "site/search",
     "site/TG-reports/index.html",
     "site/TG-reports",
-    "site/Graduate Classes/AI in Medical Physics/index.html",
-    "site/Graduate Classes/Image Processing/index.html",
     "site/Graduate Classes/Medical Imaging/index.html",
+    "site/Graduate Classes/Image Processing/index.html",
     "site/Graduate Classes/Entrepreneurship/index.html",
     "site/Graduate Classes/Coding Bootcamp/index.html",
-    "site/Graduate Classes/index.html",
     "site/assets/images/favicon.png",
+    "docs/index.md",
+    "docs/06. Proton Therapy/index.md",
     "docs/06. Proton Therapy/6.6. Site-Specific Guidance/index.md",
     "docs/06. Proton Therapy/6.5. Proton-Specific Imaging/index.md",
     "docs/06. Proton Therapy/6.4. Dose Calculation Algorithms/index.md",
@@ -221,7 +223,6 @@
     "docs/09. SRS-SBRT/9.5 CyberKnife/index.md",
     "docs/09. SRS-SBRT/9.4 Gamma Knife/index.md",
     "docs/09. SRS-SBRT/9.3 Linac-Based SRS/index.md",
-    "docs/09. SRS-SBRT/9.2 SRS Commissioning & QA/index.md",
     "assets/images/favicon.png"
   ]
 }

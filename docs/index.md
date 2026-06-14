@@ -2,15 +2,15 @@
 
 # 🎓 Welcome
 
-## Dr. Byrd's EyeView
+## Dr. Byrd's Eye View
+
+![Medical Physics Banner](assets/banner.png)
 
 ### Medical Physics Help Center
 
 A teaching repository for medical physics notes, clinical workflows, QA resources, ABR preparation, and graduate-level educational content.
 
 ---
-
-## Browse by Category
 
 ## Browse by Category
 
@@ -64,18 +64,31 @@ A teaching repository for medical physics notes, clinical workflows, QA resource
 
 ---
 
-## Start Here
+## 🚀 Start Here  
+  
+1. 📘 [Therapy Physics Basics](01.%20Therapy%20Physics%20Basics/)  
+- Radiation interactions, cavity theory, PDDs, electrons, and linac anatomy.  
+  
+2. 🖥️ [IMRT Planning](02.%20IMRT%20Planning/)  
+- Optimization, VMAT, objectives, and plan evaluation.  
+  
+3. ✅ [Quality Assurance](03.%20Quality%20Assurance/)  
+- TG-51, commissioning, machine QA, and PSQA.  
+  
+4. ☢️ [Radiation Safety](04.%20Radiation%20Safety/)  
+- Shielding, NRC regulations, surveys, and patient release criteria.  
+  
+5. 🎯 [SRS-SBRT](09.%20SRS-SBRT/)  
+- Small-field dosimetry, commissioning, and stereotactic QA.
 
-1. 📘 Therapy Physics Basics
-    
-2. 🖥️ IMRT Planning
-    
-3. ✅ Quality Assurance
-    
-4. ☢️ Radiation Safety
-    
-5. 🎯 SRS-SBRT
-    
+---
+## Quick Links 
+
+- 🧠 [ESAPI Resources](ESAPI%20Resources/)  
+- 📚 [Graduate Classes](Graduate%20Classes/)  
+- 📖 [TG Reports](TG-reports/)  
+- 🎯 [ABR Exam Prep](01.%20Therapy%20Physics%20Basics/)  
+- 🔬 [Research Portfolio](https://scholar.google.com/)
 
 ---
 
