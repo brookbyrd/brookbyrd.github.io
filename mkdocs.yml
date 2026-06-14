@@ -24,7 +24,7 @@ nav:
       - 1.5 Linac Anatomy: 01. Therapy Physics Basics/1.5 Linac Anatomy/index.md
 
   - 02. IMRT Planning:
-      - Overview: 02. IMRT Planning/index.md
+      - Overview of IMRT Planning: 02. IMRT Planning/index.md
       - 2.1 Planning Basics: 02. IMRT Planning/2.1 Planning Basics/index.md
       - 2.2 Objective Functions: 02. IMRT Planning/2.2 Objective Functions/index.md
       - 2.3 How VMAT works: 02. IMRT Planning/2.3 How VMAT works/index.md
@@ -36,7 +36,7 @@ nav:
 
 
   - 03. Quality Assurance:
-      - Overview: 03. Quality Assurance/index.md
+      - Overview of Quality Assurance: 03. Quality Assurance/index.md
       - 3.1 Detectors: 03. Quality Assurance/3.1 Detectors/index.md
       - 3.2 Output Dosimetry (TG-51): 03. Quality Assurance/3.2 Output Dosimetry (TG-51)/index.md
       - 3.3 Machine QA: 03. Quality Assurance/3.3 Machine QA/index.md
@@ -44,7 +44,7 @@ nav:
       - 3.5 PSQA: 03. Quality Assurance/3.5 PSQA/index.md
 
   - 04. Radiation Safety:
-      - Overview: 04. Radiation Safety/index.md
+      - Overview of Radiation Safety: 04. Radiation Safety/index.md
       - 4.1 Public Limits (10CFR20): 04. Radiation Safety/4.1 Public Limits (10CFR20)/index.md
       - 4.2 NCRP-151 - Shielding: 04. Radiation Safety/4.2 NCRP-151 - Shielding/index.md
       - 4.3 NRC 10CFR35 (Use of Byproduct Material): 04. Radiation Safety/4.3 NRC 10CFR35 (Use of Byproduct Material)/index.md
@@ -56,7 +56,7 @@ nav:
 
 
   - 05. Brachytherapy:
-      - Overview: 05. Brachytherapy/index.md
+      - Overview of Brachytherapy: 05. Brachytherapy/index.md
       - 5.1 Brachy QA: 05. Brachytherapy/5.1 Brachy QA/index.md
       - 5.2 TG-43 Dosimetry Formalism: 05. Brachytherapy/5.2 TG-43 Dosimetry Formalism/index.md
       - 5.3 Source Exchange: 05. Brachytherapy/5.3 Source Exchange/index.md
@@ -64,7 +64,7 @@ nav:
       - 5.5 Gyn Brachy: 05. Brachytherapy/5.5 Gyn Brachy/index.md
 
   - 06. Proton Therapy:
-      - Overview: 06. Proton Therapy/index.md
+      - Overview of Proton Therapy: 06. Proton Therapy/index.md
       - 6.1 Proton Physics - 101: 06. Proton Therapy/6.1 Proton Physics - 101/index.md
       - 6.2 Basics of Proton Planning: 06. Proton Therapy/6.2 Basics of Proton Planning/index.md
       - 6.3 Range Uncertainty: 06. Proton Therapy/6.3 Range Uncertainty/index.md
@@ -75,7 +75,7 @@ nav:
       - 6.8 Machine QA: 06. Proton Therapy/6.6 Machine QA/index.md
 
   - 07. Special Topics:
-      - Overview: 07. Special Topics/index.md
+      - Overview of Special Topics: 07. Special Topics/index.md
       - Adaptive: 07. Special Topics/Adaptive/index.md
       - MRI-Linac: 07. Special Topics/MRI-Linac/index.md
       - TBI: 07. Special Topics/TBI/index.md
@@ -83,7 +83,7 @@ nav:
 
 
   - 08. Imaging:
-      - Overview: 08. Imaging/index.md
+      - Overview of Imaging: 08. Imaging/index.md
       - CT Sim: 08. Imaging/CT Sim/index.md
       - DECT: 08. Imaging/DECT/index.md
       - IGRT: 08. Imaging/IGRT/index.md
@@ -93,7 +93,7 @@ nav:
       - Ultrasound: 08. Imaging/Ultrasound/index.md
 
   - 09. SRS-SBRT:
-      - Overview: 09. SRS-SBRT/index.md
+      - Overview of SRS-SBRT: 09. SRS-SBRT/index.md
       - 9.1 Small Field Dosimetry: 09. SRS-SBRT/9.1 Small Field Dosimetry/index.md
       - 9.2 SRS Commissioning & QA: 09. SRS-SBRT/9.2 SRS Commissioning & QA/index.md
       - 9.3 Linac-Based SRS: 09. SRS-SBRT/9.3 Linac-Based SRS/index.md
@@ -101,13 +101,13 @@ nav:
       - 9.5 CyberKnife: 09. SRS-SBRT/9.5 CyberKnife/index.md
 
   - 10. FMEA & TG-100:
-      - Overview: 10. FMEA & TG-100/index.md
+      - Overview of TG-100: 10. FMEA & TG-100/index.md
 
   - 11. Anatomy:
-      - Overview: 11. Anatomy/index.md
+      - Overview of Anatomy: 11. Anatomy/index.md
 
   - ESAPI Resources:
-      - Overview: ESAPI Resources/index.md
+      - Overview of ESAPI: ESAPI Resources/index.md
       - Examples: ESAPI Resources/Examples/index.md
       - Introductory Resources: ESAPI Resources/Introductory Resources/index.md
       - Workshop Starter Script: ESAPI Resources/Workshop_Starter_Script/index.md
