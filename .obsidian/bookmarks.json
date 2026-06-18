@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1781709417932,
+      "path": "docs/Adaptive RT Summer Course/CourseNotes.md",
+      "subpath": "#MRI-Linac",
+      "title": "MRgRT"
+    },
+    {
+      "type": "file",
+      "ctime": 1781709441747,
+      "path": "docs/Adaptive RT Summer Course/CourseNotes.md",
+      "subpath": "#CBCT-based Workflow (Ethos)",
+      "title": "Ethos"
+    },
+    {
+      "type": "file",
+      "ctime": 1781709450064,
+      "path": "docs/Adaptive RT Summer Course/CourseNotes.md",
+      "subpath": "#Fundamentals of ART",
+      "title": "Fundamentals of ART"
+    },
+    {
+      "type": "file",
+      "ctime": 1781709552664,
+      "path": "docs/Adaptive RT Summer Course/CourseNotes.md",
+      "subpath": "#ART AAPM Summer Course",
+      "title": "AAPM Summer Course"
+    }
+  ]
+}

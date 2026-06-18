@@ -12,9 +12,10 @@ tags:
 
 - [1.1 Basic Interactions](1.1%20Basic%20Interactions/)  
 - [1.2 Cavity Theory](1.2%20Cavity%20Theory/)  
-- [1.3 PDDs](1.3%20PDDs/)  
-- [1.4 Electron Therapy](1.4%20Electron%20Therapy/)  
-- [1.5 Linac Anatomy](1.5%20Linac%20Anatomy/)
+- [1.4 PDDs](1.4%20PDDs/)  
+- [1.5 Electron Therapy](1.5%20Electron%20Therapy/)  
+- [1.6 Linac Anatomy](1.6%20Linac%20Anatomy/)
+- [1.7 Rules of Thumb](1.7%20Rules%20of%20Thumb/)
 
 ---
 

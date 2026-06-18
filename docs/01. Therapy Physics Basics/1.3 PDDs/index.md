@@ -1,6 +1,0 @@
-# PDDs
-
-## Topics
-
-- PDDs
-- 
