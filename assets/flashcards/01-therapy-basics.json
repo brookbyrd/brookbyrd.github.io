@@ -1,0 +1,26 @@
+
+[
+  {
+    "id": "TB-FC001",
+    "section": "01. Therapy Physics Basics",
+    "topic": "Basic Interactions",
+    "subtopic": "Compton Scattering",
+    "difficulty": "Easy",
+    "front": "Which interaction predominates for megavoltage photon beams in water and soft tissue?",
+    "back": "Compton scattering.",
+    "tags": ["Photon Interactions", "Compton", "Electron Density"],
+    "references": ["Khan Chapter 5"]
+  },
+  {
+    "id": "TB-FC002",
+    "section": "01. Therapy Physics Basics",
+    "topic": "KERMA, TERMA, and Dose",
+    "subtopic": "Definitions",
+    "difficulty": "Medium",
+    "front": "What does TERMA stand for?",
+    "back": "Total Energy Released per unit MAss.",
+    "tags": ["TERMA", "KERMA", "Dose"],
+    "references": ["Khan Chapter 6"]
+  }
+]
+

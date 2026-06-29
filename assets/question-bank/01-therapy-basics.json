@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TB-Q001",
+    "section": "01. Therapy Physics Basics",
+    "topic": "Basic Interactions",
+    "subtopic": "Compton Scattering",
+    "difficulty": "Easy",
+    "question": "Which interaction predominates for a 6 MV photon beam in water?",
+    "choices": [
+      { "id": "A", "text": "Photoelectric effect" },
+      { "id": "B", "text": "Compton scattering" },
+      { "id": "C", "text": "Pair production" },
+      { "id": "D", "text": "Coherent scattering" }
+    ],
+    "correct_answer": "B",
+    "explanation": "Compton scattering dominates for megavoltage photons in soft tissue and water because the interaction probability is approximately related to electron density.",
+    "tags": ["Photon Interactions", "Compton", "Electron Density"],
+    "references": ["Khan Chapter 5"]
+  }
+]
